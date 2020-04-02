@@ -7,54 +7,65 @@ h1{
     display: inline-block;
     height: 65px;
     width: 65px;
-    padding: 4px;
+    padding: 10px;
     background-color: #721b65;
 }
 .cajitas2{ 
     display: inline-block;
     height: 65px;
     width: 65px;
-    padding: 4px;
+    padding: 10px;
     background-color: #b80d57;
 }
 .cajitas3{
     display: inline-block;
     height: 65px;
     width: 65px;
-    padding: 4px;
+    padding: 10px;
     background-color: #f8615a;
 }
 .relativas{
     height: 130px;
-    width: 693px;
+    width: 800px;
     background-color: #721b65;
     display: inline-block;
 }
 .relativas1{
     height: 130px;
-    width: 693px;
+    width: 800px;
     background-color:  #f8615a;
     display: inline-block;
 }
 .relativaspadre{
     height: 130px;
-    width: 693px;
+    width: 800px;
     background-color: #721b65;
     display: inline-block;
     position: relative;
-    top: 0px;
-    bottom: 0px;
-    right: 0px;
-    left: 60px;
+    left: 150px;
 }
 .relativas1padre{
     height: 130px;
-    width: 693px;
+    width: 800px;
     background-color:  #f8615a;
     display: inline-block;
     position: relative;
-    top: 0px;
+    right: 0px;
+    left: 0px;
+   
+}
+.cajitahija{
+    height: 70px;
+    width: 70px;
+    background-color: #f8615a;
+    position: absolute;
     bottom: 0px;
-    right: 60px;
-    left: 60px;
+}
+.cajitahija2{
+    height: 70px;
+    width: 70px;
+    background-color: #721b65;
+    position: absolute;
+    bottom: 0px;
+    right: 0px;
 }
