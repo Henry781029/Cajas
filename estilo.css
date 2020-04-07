@@ -2,7 +2,6 @@ h1{
     font-size: 40px;
     color: blue;
 }
-
 .cajitas{
     display: inline-block;
     height: 65px;
@@ -51,8 +50,6 @@ h1{
     display: inline-block;
     position: relative;
     left: 150px;
-    
-   
 }
 .cajitahija{
     height: 80px;
